@@ -1,7 +1,7 @@
 # Huawei_Challenge_2018
 A regional competition of Huawei challenge 2018.<br>
-
 `Rank 37 in the regional competition of this challenge.`<br>
+
 ---
 Using a BP network for predicting and bestfit algorithm or Genetic algorithm (GA) for packing.<br>
 The project does not need to install any dependencies to use.<br>
